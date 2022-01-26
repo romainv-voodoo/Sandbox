@@ -1,0 +1,910 @@
+{
+    "isNewPackage": true,
+    "onlyUpdateInfo": false,
+    "onlinePackage": {
+        "name": "",
+        "author": "",
+        "displayName": "",
+        "description": "",
+        "version": "",
+        "unityVersion": "",
+        "updatedAt": "",
+        "size": 0,
+        "documentationLink": "",
+        "additionalContents": [],
+        "dependencies": [],
+        "labels": [],
+        "tags": []
+    },
+    "package": {
+        "name": "",
+        "author": "antony@voodoo.io",
+        "displayName": "",
+        "description": "",
+        "version": "1.0.0",
+        "unityVersion": "2019.4.31f1",
+        "updatedAt": "",
+        "size": 0,
+        "documentationLink": "",
+        "additionalContents": [],
+        "dependencies": [],
+        "labels": [],
+        "tags": []
+    },
+    "elementsToExport": [],
+    "dependencyPackages": [
+        {
+            "name": "3D_Buildings",
+            "isSelected": false
+        },
+        {
+            "name": "3D_Cars",
+            "isSelected": false
+        },
+        {
+            "name": "3D_Props",
+            "isSelected": false
+        },
+        {
+            "name": "3D_Roads",
+            "isSelected": false
+        },
+        {
+            "name": "Addressable-S3-Uploader",
+            "isSelected": false
+        },
+        {
+            "name": "Agents",
+            "isSelected": false
+        },
+        {
+            "name": "AIVision",
+            "isSelected": false
+        },
+        {
+            "name": "AnimatedObjectResize",
+            "isSelected": false
+        },
+        {
+            "name": "AppUpdater",
+            "isSelected": false
+        },
+        {
+            "name": "AStar",
+            "isSelected": false
+        },
+        {
+            "name": "AutoMatcap",
+            "isSelected": false
+        },
+        {
+            "name": "AutoQuality",
+            "isSelected": false
+        },
+        {
+            "name": "BinaryPrefs",
+            "isSelected": false
+        },
+        {
+            "name": "Broadcaster",
+            "isSelected": false
+        },
+        {
+            "name": "Buttons",
+            "isSelected": false
+        },
+        {
+            "name": "CarController",
+            "isSelected": false
+        },
+        {
+            "name": "CartoonChest",
+            "isSelected": false
+        },
+        {
+            "name": "CartoonGift",
+            "isSelected": false
+        },
+        {
+            "name": "CartoonSmokesFX",
+            "isSelected": false
+        },
+        {
+            "name": "Catamaran",
+            "isSelected": false
+        },
+        {
+            "name": "ChestRoom",
+            "isSelected": false
+        },
+        {
+            "name": "CircleOutline",
+            "isSelected": false
+        },
+        {
+            "name": "Clouds",
+            "isSelected": false
+        },
+        {
+            "name": "CoinsExplosion3D",
+            "isSelected": false
+        },
+        {
+            "name": "Collectibles",
+            "isSelected": false
+        },
+        {
+            "name": "ColorPicker",
+            "isSelected": false
+        },
+        {
+            "name": "ColorsGradient",
+            "isSelected": false
+        },
+        {
+            "name": "ColorsPercent",
+            "isSelected": false
+        },
+        {
+            "name": "Confetti",
+            "isSelected": false
+        },
+        {
+            "name": "CrashlyticsLogs",
+            "isSelected": false
+        },
+        {
+            "name": "CreativeTestApp",
+            "isSelected": false
+        },
+        {
+            "name": "Culling",
+            "isSelected": false
+        },
+        {
+            "name": "DailyReward",
+            "isSelected": false
+        },
+        {
+            "name": "Database",
+            "isSelected": false
+        },
+        {
+            "name": "Datatune",
+            "isSelected": false
+        },
+        {
+            "name": "Dithering",
+            "isSelected": false
+        },
+        {
+            "name": "DotLine",
+            "isSelected": false
+        },
+        {
+            "name": "DrawLine",
+            "isSelected": false
+        },
+        {
+            "name": "Ease",
+            "isSelected": false
+        },
+        {
+            "name": "EasedAnimations",
+            "isSelected": false
+        },
+        {
+            "name": "EasyAnchors",
+            "isSelected": false
+        },
+        {
+            "name": "EditorHelper",
+            "isSelected": false
+        },
+        {
+            "name": "Escalator",
+            "isSelected": false
+        },
+        {
+            "name": "ExtensionMethods-Double",
+            "isSelected": false
+        },
+        {
+            "name": "ExtensionMethods-List",
+            "isSelected": false
+        },
+        {
+            "name": "ExtensionMethods-Particle",
+            "isSelected": false
+        },
+        {
+            "name": "FacesColors",
+            "isSelected": false
+        },
+        {
+            "name": "FadeTransparent",
+            "isSelected": false
+        },
+        {
+            "name": "FakeTrail",
+            "isSelected": false
+        },
+        {
+            "name": "Fill",
+            "isSelected": false
+        },
+        {
+            "name": "FiniteStateMachine",
+            "isSelected": false
+        },
+        {
+            "name": "FixedWidthCamera",
+            "isSelected": false
+        },
+        {
+            "name": "FollowPath",
+            "isSelected": false
+        },
+        {
+            "name": "FPSDisplayer",
+            "isSelected": false
+        },
+        {
+            "name": "FreeChest",
+            "isSelected": false
+        },
+        {
+            "name": "FreeGoldGift",
+            "isSelected": false
+        },
+        {
+            "name": "GameOpsCommon",
+            "isSelected": false
+        },
+        {
+            "name": "GameState",
+            "isSelected": false
+        },
+        {
+            "name": "GamifiedRVMultiplier",
+            "isSelected": false
+        },
+        {
+            "name": "InGameEditor",
+            "isSelected": false
+        },
+        {
+            "name": "InGameSurvey",
+            "isSelected": false
+        },
+        {
+            "name": "InputController",
+            "isSelected": false
+        },
+        {
+            "name": "InputController-Direction",
+            "isSelected": false
+        },
+        {
+            "name": "InputController-Pinch",
+            "isSelected": false
+        },
+        {
+            "name": "InputController-Position",
+            "isSelected": false
+        },
+        {
+            "name": "InputController-Swipe",
+            "isSelected": false
+        },
+        {
+            "name": "InputController-Tap",
+            "isSelected": false
+        },
+        {
+            "name": "InputRecorder",
+            "isSelected": false
+        },
+        {
+            "name": "Leaderboard",
+            "isSelected": false
+        },
+        {
+            "name": "LevelEditorBubbleBuster",
+            "isSelected": false
+        },
+        {
+            "name": "LevelManager",
+            "isSelected": false
+        },
+        {
+            "name": "LigthingSettingsPlus",
+            "isSelected": false
+        },
+        {
+            "name": "Liquid2D",
+            "isSelected": false
+        },
+        {
+            "name": "Localization",
+            "isSelected": false
+        },
+        {
+            "name": "MappingGeneration",
+            "isSelected": false
+        },
+        {
+            "name": "Maths",
+            "isSelected": false
+        },
+        {
+            "name": "MDToolkit",
+            "isSelected": false
+        },
+        {
+            "name": "MDToolkit-Recorder",
+            "isSelected": false
+        },
+        {
+            "name": "Meta-Packages",
+            "isSelected": false
+        },
+        {
+            "name": "MissingReferencesFinder",
+            "isSelected": false
+        },
+        {
+            "name": "Missions",
+            "isSelected": false
+        },
+        {
+            "name": "MysteryPrize",
+            "isSelected": false
+        },
+        {
+            "name": "Nakama",
+            "isSelected": false
+        },
+        {
+            "name": "NodePhysic2D",
+            "isSelected": false
+        },
+        {
+            "name": "OptimizationCoach",
+            "isSelected": false
+        },
+        {
+            "name": "PatternEditor",
+            "isSelected": false
+        },
+        {
+            "name": "PersistenceSystem",
+            "isSelected": false
+        },
+        {
+            "name": "PlaneModeFighter",
+            "isSelected": false
+        },
+        {
+            "name": "PlayerPrefsEditor",
+            "isSelected": false
+        },
+        {
+            "name": "PointGenerator",
+            "isSelected": false
+        },
+        {
+            "name": "PointGenerator-Circle",
+            "isSelected": false
+        },
+        {
+            "name": "PointGenerator-Parallelepiped",
+            "isSelected": false
+        },
+        {
+            "name": "PointGenerator-Rectangle",
+            "isSelected": false
+        },
+        {
+            "name": "PointGenerator-Sphere",
+            "isSelected": false
+        },
+        {
+            "name": "Pooling",
+            "isSelected": false
+        },
+        {
+            "name": "ProgressionDefiner",
+            "isSelected": false
+        },
+        {
+            "name": "ProgressiveRewards",
+            "isSelected": false
+        },
+        {
+            "name": "RagdollWizardHelper",
+            "isSelected": false
+        },
+        {
+            "name": "RandomizeCharacter",
+            "isSelected": false
+        },
+        {
+            "name": "RandomizeColor",
+            "isSelected": false
+        },
+        {
+            "name": "RandomizeFlag",
+            "isSelected": false
+        },
+        {
+            "name": "RandomizePseudo",
+            "isSelected": false
+        },
+        {
+            "name": "RandomWeighted",
+            "isSelected": false
+        },
+        {
+            "name": "RangeValue",
+            "isSelected": false
+        },
+        {
+            "name": "Red_Bricks",
+            "isSelected": false
+        },
+        {
+            "name": "RemoteClassExporter",
+            "isSelected": false
+        },
+        {
+            "name": "RemoteConfigModel",
+            "isSelected": false
+        },
+        {
+            "name": "RVModules",
+            "isSelected": false
+        },
+        {
+            "name": "SceneLoader",
+            "isSelected": false
+        },
+        {
+            "name": "ScreenMarkers",
+            "isSelected": false
+        },
+        {
+            "name": "ScreenshotController",
+            "isSelected": false
+        },
+        {
+            "name": "ScrollRectSwipe",
+            "isSelected": false
+        },
+        {
+            "name": "SettingsMenu",
+            "isSelected": false
+        },
+        {
+            "name": "Shaker",
+            "isSelected": false
+        },
+        {
+            "name": "Shop",
+            "isSelected": false
+        },
+        {
+            "name": "Shop-Core",
+            "isSelected": false
+        },
+        {
+            "name": "Shop-Visual",
+            "isSelected": false
+        },
+        {
+            "name": "SingletonMB",
+            "isSelected": false
+        },
+        {
+            "name": "SliderRamp",
+            "isSelected": false
+        },
+        {
+            "name": "SlotMachine",
+            "isSelected": false
+        },
+        {
+            "name": "SmartLookRecordManager",
+            "isSelected": false
+        },
+        {
+            "name": "SmartPlay",
+            "isSelected": false
+        },
+        {
+            "name": "SplineSpawn",
+            "isSelected": false
+        },
+        {
+            "name": "SquareOutline",
+            "isSelected": false
+        },
+        {
+            "name": "StarsPanel",
+            "isSelected": false
+        },
+        {
+            "name": "StartRVBonus",
+            "isSelected": false
+        },
+        {
+            "name": "StencilHole",
+            "isSelected": false
+        },
+        {
+            "name": "Store",
+            "isSelected": false
+        },
+        {
+            "name": "Structure",
+            "isSelected": false
+        },
+        {
+            "name": "Sugar_Pack",
+            "isSelected": false
+        },
+        {
+            "name": "TaskScheduler",
+            "isSelected": false
+        },
+        {
+            "name": "TexturePainting",
+            "isSelected": false
+        },
+        {
+            "name": "TheBoldFont",
+            "isSelected": false
+        },
+        {
+            "name": "ThemeMaker",
+            "isSelected": false
+        },
+        {
+            "name": "Times",
+            "isSelected": false
+        },
+        {
+            "name": "ToastManager",
+            "isSelected": false
+        },
+        {
+            "name": "Trade",
+            "isSelected": false
+        },
+        {
+            "name": "Tree",
+            "isSelected": false
+        },
+        {
+            "name": "TutorialAngularSwipe",
+            "isSelected": false
+        },
+        {
+            "name": "TutorialDrag",
+            "isSelected": false
+        },
+        {
+            "name": "TutorialInfinite",
+            "isSelected": false
+        },
+        {
+            "name": "TutorialJoystick",
+            "isSelected": false
+        },
+        {
+            "name": "TutorialSwipe",
+            "isSelected": false
+        },
+        {
+            "name": "TutorialTap",
+            "isSelected": false
+        },
+        {
+            "name": "TutorialTapLeftRight",
+            "isSelected": false
+        },
+        {
+            "name": "TutorialText",
+            "isSelected": false
+        },
+        {
+            "name": "TypeHelper",
+            "isSelected": false
+        },
+        {
+            "name": "UIOverlayParticles",
+            "isSelected": false
+        },
+        {
+            "name": "VertexCut",
+            "isSelected": false
+        },
+        {
+            "name": "Vibrations",
+            "isSelected": false
+        },
+        {
+            "name": "View-Failure",
+            "isSelected": false
+        },
+        {
+            "name": "View-MainMenu",
+            "isSelected": false
+        },
+        {
+            "name": "View-Percent",
+            "isSelected": false
+        },
+        {
+            "name": "View-Progression",
+            "isSelected": false
+        },
+        {
+            "name": "Views",
+            "isSelected": false
+        },
+        {
+            "name": "View-Success",
+            "isSelected": false
+        },
+        {
+            "name": "View-VirtualKeyboard",
+            "isSelected": false
+        },
+        {
+            "name": "VisualJoystick",
+            "isSelected": false
+        },
+        {
+            "name": "VoodooCustomCharacter",
+            "isSelected": false
+        },
+        {
+            "name": "VoodooSFX",
+            "isSelected": false
+        },
+        {
+            "name": "Voodootune",
+            "isSelected": false
+        },
+        {
+            "name": "Water_cartoon",
+            "isSelected": false
+        },
+        {
+            "name": "WebRequestUtility",
+            "isSelected": false
+        },
+        {
+            "name": "WheelOfFortune",
+            "isSelected": false
+        },
+        {
+            "name": "WheelsSkins",
+            "isSelected": false
+        }
+    ],
+    "unselectableDependencyPackages": [],
+    "commitMessage": "",
+    "labels": [
+        {
+            "labelName": "3d",
+            "isSelected": false
+        },
+        {
+            "labelName": "ai",
+            "isSelected": false
+        },
+        {
+            "labelName": "analysis",
+            "isSelected": false
+        },
+        {
+            "labelName": "animation",
+            "isSelected": false
+        },
+        {
+            "labelName": "asset",
+            "isSelected": false
+        },
+        {
+            "labelName": "blendshapes",
+            "isSelected": false
+        },
+        {
+            "labelName": "camera",
+            "isSelected": false
+        },
+        {
+            "labelName": "casual",
+            "isSelected": false
+        },
+        {
+            "labelName": "character",
+            "isSelected": false
+        },
+        {
+            "labelName": "controlers",
+            "isSelected": false
+        },
+        {
+            "labelName": "data",
+            "isSelected": false
+        },
+        {
+            "labelName": "distribution",
+            "isSelected": false
+        },
+        {
+            "labelName": "editor",
+            "isSelected": false
+        },
+        {
+            "labelName": "enviro",
+            "isSelected": false
+        },
+        {
+            "labelName": "event",
+            "isSelected": false
+        },
+        {
+            "labelName": "external",
+            "isSelected": false
+        },
+        {
+            "labelName": "font",
+            "isSelected": false
+        },
+        {
+            "labelName": "game_ops",
+            "isSelected": false
+        },
+        {
+            "labelName": "game_tool_dev",
+            "isSelected": false
+        },
+        {
+            "labelName": "gaming",
+            "isSelected": false
+        },
+        {
+            "labelName": "hypercasual",
+            "isSelected": false
+        },
+        {
+            "labelName": "level_design",
+            "isSelected": false
+        },
+        {
+            "labelName": "mac_only",
+            "isSelected": false
+        },
+        {
+            "labelName": "marketing_dev",
+            "isSelected": false
+        },
+        {
+            "labelName": "matcap",
+            "isSelected": false
+        },
+        {
+            "labelName": "material",
+            "isSelected": false
+        },
+        {
+            "labelName": "meta",
+            "isSelected": false
+        },
+        {
+            "labelName": "network",
+            "isSelected": false
+        },
+        {
+            "labelName": "obsolete",
+            "isSelected": false
+        },
+        {
+            "labelName": "optimization",
+            "isSelected": false
+        },
+        {
+            "labelName": "particles",
+            "isSelected": false
+        },
+        {
+            "labelName": "pattern",
+            "isSelected": false
+        },
+        {
+            "labelName": "physic",
+            "isSelected": false
+        },
+        {
+            "labelName": "props",
+            "isSelected": false
+        },
+        {
+            "labelName": "render",
+            "isSelected": false
+        },
+        {
+            "labelName": "reward",
+            "isSelected": false
+        },
+        {
+            "labelName": "shader",
+            "isSelected": false
+        },
+        {
+            "labelName": "test",
+            "isSelected": false
+        },
+        {
+            "labelName": "time",
+            "isSelected": false
+        },
+        {
+            "labelName": "ui",
+            "isSelected": false
+        },
+        {
+            "labelName": "unverified",
+            "isSelected": false
+        },
+        {
+            "labelName": "urp",
+            "isSelected": false
+        },
+        {
+            "labelName": "utils",
+            "isSelected": false
+        },
+        {
+            "labelName": "win_only",
+            "isSelected": false
+        }
+    ],
+    "additionalContents": [],
+    "authors": [
+        "antony@voodoo.io",
+        "baptisteb@voodoo.io",
+        "charles@voodoo.io",
+        "clement@voodoo.io",
+        "constant@voodoo.io",
+        "david.rd@voodoo.io",
+        "eliott@voodoo.io",
+        "florianlaizet@voodoo.io",
+        "gametoolsupport@voodoo.io",
+        "justin@voodoo.io",
+        "kenny@voodoo.io",
+        "maximeben@voodoo.io",
+        "mederic@voodoo.io",
+        "nicolashiraclides@voodoo.io",
+        "noureddine@voodoo.io",
+        "oleh@voodoo.io",
+        "pierren@voodoo.io",
+        "raphaelmendes@voodoo.io",
+        "romainv@voodoo.io",
+        "ruslan@voodoo.io",
+        "sebastienf@voodoo.io",
+        "taikihagiwara@voodoo.io",
+        "thomasfu@voodoo.io",
+        "tom@voodoo.io",
+        "vanessaj@voodoo.io",
+        "vincentb@voodoo.io",
+        "youssefz@voodoo.io",
+        "New Author"
+    ],
+    "selectedAuthor": 0,
+    "newAuthor": ""
+}
