@@ -1,0 +1,37 @@
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+platform :ios do
+  before_all do
+    setup_circle_ci
+  end
+  
+  desc "Adhoc build"
+  lane :adhoc do
+    match(type: "adhoc", readonly: true, api_key_path: "fastlane/Apple.json")
+    scheme = ENV["scheme"]
+    gym(export_method: "ad-hoc", scheme: scheme, clean: true, output_name: "myapp")
+  end
+  
+  desc "Distribution build"
+  lane :distribution do
+    match(type: "appstore", readonly: true, api_key_path: "fastlane/Apple.json")
+    scheme = ENV["scheme"]
+    gym(export_method: "app-store", scheme: scheme, clean: true, output_name: "myapp")
+  end
+  
+  desc "Send to test flight"
+  lane :upload_testflight do |options|
+	upload_to_testflight(api_key_path: "fastlane/Apple.json", skip_waiting_for_build_processing: true, changelog: options[:comment])
+  end
+end
+
+platform :android do
+  lane :playstore do
+    gradle(
+      task: 'assemble',
+      build_type: 'Release',
+	  project_dir: './Builds'
+    )
+  end
+end
