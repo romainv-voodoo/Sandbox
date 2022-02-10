@@ -1,5 +1,0 @@
-{
-  \"key_id\": \"${APPLE_KEY_ID}\",
-  \"issuer_id\": \"${APPLE_KEY_ISSUER_ID}\",
-  \"key\": \"${APPLE_KEY}\"
-}

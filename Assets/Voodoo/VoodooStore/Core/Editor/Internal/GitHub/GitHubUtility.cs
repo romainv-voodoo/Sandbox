@@ -45,8 +45,9 @@ namespace Voodoo.Store
 			{
 				_ = await GetRepository(GitHubConstants.Owner, GitHubConstants.StoreRepository);
 			}
-			catch
+			catch (System.Exception e)
 			{
+				UnityEngine.Debug.LogError(e.Message);
 				return false;
 			}
             
